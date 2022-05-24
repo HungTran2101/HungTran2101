@@ -26,8 +26,6 @@
 
 - 📫 Reach me through mail: trannhathung2101@gmail.com
 
-- 🖨️ [My online CV](https://trannhathung-cv.herokuapp.com) _<sup>unfinished</sup>_
-
 ---
 
 ### 🧰 Languages and Tools :  
