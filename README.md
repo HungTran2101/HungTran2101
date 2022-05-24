@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/waIb4gha3r6PS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/107G4C0reWZS5W/giphy.gif" width="200"/>
   <div>&nbsp;</div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/hùng-trần-nhật-3a0a4323b/">
