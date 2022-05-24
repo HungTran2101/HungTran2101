@@ -16,7 +16,7 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 **I am a FrontEnd Developer _for now_ from Viet Nam.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🎓 I'm junior students at University of Technology and Education. _Expected time of graduation is in 2023._
 
@@ -25,6 +25,8 @@
 - ↗️ I'm ready to learn new things, learn more social skills and welcoming new friends.
 
 - 📫 Reach me through mail: trannhathung2101@gmail.com
+
+- 🖨️ [My online CV](https://trannhathung-cv.herokuapp.com) _<sup>unfinished</sup>_
 
 ---
 
