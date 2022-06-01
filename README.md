@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/107G4C0reWZS5W/giphy.gif" width="200"/>
   <div>&nbsp;</div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/hùng-trần-nhật-3a0a4323b/">
+    <a target="_blank" href="https://www.linkedin.com/in/hùng-trần-nhật-3a0a4323b/">
       <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/hieu.hung.562329/">
+    <a target="_blank" href="https://www.facebook.com/hieu.hung.562329/">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
     </a>
   </div>
