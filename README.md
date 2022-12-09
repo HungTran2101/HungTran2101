@@ -24,6 +24,8 @@
 
 - ↗️ I'm ready to learn new things, learn more social skills and welcoming new friends.
 
+- 🥅 My career goal is become a fullstack web developer. I willingly learn more to reach that goal.
+
 - 📫 Reach me through mail: trannhathung2101@gmail.com
 
 ---
